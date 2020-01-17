@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
       *****************************************************************
-      *    Problem 3: Even Fibonacci numbers
+      *    Problem 3: Largest Prime Factor
       *
       *    The prime factors of 13,195 are 5, 7, 13, and 29.
       *    What is the largest prime factor of the number
